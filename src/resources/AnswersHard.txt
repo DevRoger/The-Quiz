@@ -1,0 +1,20 @@
+A. Python,B. Java,C. C++
+A. Bill Gates,B. Paul Allen,C. Steve Ballmer
+A. Tarjeta Gráfica,B. Placa base,C. CPU
+A. Google Chrome,B. Microsoft Edge,C. Firefox Mozilla
+A. Ultra Speed Bandwidth,B. Universal Serial Bus,C. Unlimited Signal Boost
+A. Elon Musk,B. Jeff Bezos,C. Bill Gates
+A. Aplicación de pantalla de teléfono,B. Filtro de red,C. Dispositivo de control de temperatura
+A. Transferencia de datos multidimensional,B. Encapsulamiento de información,C. Enrutamiento de datos
+A. Unidad Central de Procesamiento,B. Cifrado de Protección Unificada,C. Central de Procesamiento Universal
+A. Cerebro digital,B. Automatización avanzada,C. Máquinas automáticas
+A. Digito binario,B. Hora virtual,C. Moneda digital
+A. Tim Cook,B. Steve Wozniak,C. Katherine Adams
+A. Lenguaje de Marcas de Hiperbole,B. Lenguaje de Margenes Horizontales,C. Lenguaje de Marcado de Hipertexto
+A. Red Privada Virtual,B. Nube Virtual Privada,C. Red Premium Privada
+A. Andrés Torrente,B. Jack Dorsey,C. Antonio Luengo
+A. Red de Área Local,B. Red Artificial Local,C. Red Neuronal Arificial
+A. Maquina digital avanzada,B. Aprendizaje automático,C. Robots automáticos
+A. Aplicacion de escritorio,B. Red social,C. Sistema operativo
+A. SSD,B. HDD,C. SSHD
+A. Facebook,B. Instagram,C. Tik Tok
